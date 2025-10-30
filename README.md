@@ -55,10 +55,10 @@ I love bringing ideas to life through code and crafting experiences that blend p
     <img src="https://img.shields.io/badge/GitHub-0A192F?style=for-the-badge&logo=github&logoColor=00D9FF" />
   </a>
   <a href="https://www.linkedin.com/in/adarsh-yadav-b28649219/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A192F?style=for-the-badge&logo=linkedin&logoColor=FF00E6" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A192F?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
   </a>
   <a href="mailto:adarshy129@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-0A192F?style=for-the-badge&logo=gmail&logoColor=00D9FF" />
+    <img src="https://img.shields.io/badge/Email-0A192F?style=for-the-badge&logo=gmail&logoColor=EA4335" />
   </a>
 </p>
 
@@ -68,4 +68,3 @@ I love bringing ideas to life through code and crafting experiences that blend p
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2500&pause=1000&color=FF00E6&center=true&vCenter=true&width=480&lines=Code+with+passion+and+precision.;Think.+Build.+Deliver.;Turning+ideas+into+impact+🚀" alt="Footer Typing SVG" />
 </p>
-
