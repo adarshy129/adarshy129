@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey!+I'm+Adarsh+Yadav;Full+Stack+Developer+💻;Hackathon+Winner+🏆;Creator+%7C+Builder+%7C+Innovator" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey!+I'm+Adarsh+Yadav;Full+Stack+Developer+💻;Creator+%7C+Builder+%7C+Innovator" alt="Typing SVG" />
 
 </div>
 
@@ -54,7 +54,7 @@ I love bringing ideas to life through code and crafting experiences that blend p
   <a href="https://github.com/adarshy129" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-0A192F?style=for-the-badge&logo=github&logoColor=00D9FF" />
   </a>
-  <a href="https://www.linkedin.com/in/adarshy129/" target="_blank">
+  <a href="https://www.linkedin.com/in/adarsh-yadav-b28649219/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A192F?style=for-the-badge&logo=linkedin&logoColor=FF00E6" />
   </a>
   <a href="mailto:adarshy129@gmail.com" target="_blank">
