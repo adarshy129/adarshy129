@@ -35,7 +35,7 @@
   <a href="https://github.com/adarshy129" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=BC13FE" />
   </a>
-  <a href="https://www.linkedin.com/in/adarshy129/" target="_blank">
+  <a href="https://www.linkedin.com/in/adarsh-yadav-b28649219" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=BC13FE" />
   </a>
   <a href="mailto:adarshy129@gmail.com" target="_blank">
